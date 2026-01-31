@@ -1,0 +1,8 @@
+Repository Git URL:
+https://github.com/navodkaushallya/IT23324510_ITPM_Assigment_1.git
+
+Repository Web URL:
+https://github.com/navodkaushallya/IT23324510_ITPM_Assigment_1
+
+Clone command:
+git clone https://github.com/navodkaushallya/IT23324510_ITPM_Assigment_1.git
